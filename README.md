@@ -33,4 +33,4 @@ aperçus précieux sur les préférences régionales et les tendances du marché
 les principales tendances du marché et formulé des recommandations pour les entreprises 
 souhaitant entrer ou se développer dans le marché des téléphones mobiles au Ghana.
 
-NB: Chaque a été bien détaillée dans le fichier notebook(.pynb)
+NB: Chaque étape a été bien détaillée dans le fichier notebook(.pynb)
